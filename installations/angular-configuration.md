@@ -16,9 +16,9 @@ Ejemplo:
 
 | Instalar versión node | Descripción                       |
 |-----------------------|-----------------------------------|
+| nvm ls                | Para ver las versiones instaladas |
 | nvm install 16        | Para Angular 10                   |
 | nvm install 20        | Para Angular 20                   |
-| nvm ls                | Para ver las versiones instaladas |
 | nvm use 16            | Usar Node v 16                    |
 | nvm use 18            | Usar Node v 18 (Proyecto Sempre)  |
 | nvm use 20            | Usar Node v 20                    |
