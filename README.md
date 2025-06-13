@@ -6,6 +6,10 @@
 
 [Java](./technologies/Java.md)
 
+# Configuraciones
+
+[Java](./installations/java-configuration.md)
+
 # Teoría
 
 [Patrones de diseño](./teory/design-patterns.md)
