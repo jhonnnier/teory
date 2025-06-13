@@ -14,6 +14,8 @@ Instalar versiones
 
 Ejemplo:
 
+> Comando para ver las versiones instaladas <code>nvm ls</code>
+
 | Descripción                       | Instalar versión node       |
 |-----------------------------------|-----------------------------|
 | Para ver las versiones instaladas | <code>nvm ls</code>         |
