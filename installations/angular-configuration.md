@@ -2,11 +2,11 @@
 
 # Angular Configuraciones
 
-| Tecnología  | Conocer versión |
-|-------------|-----------------|
-| Angular     | ng version      |
-| Type Script | tsc -v          |
-| Node        | node -v         |
+| Tecnología  | Conocer versión         |
+|-------------|-------------------------|
+| Angular     | <code>ng version</code> |
+| Type Script | <code>tsc -v</code>     |
+| Node        | <code>node -v</code>    |
 
 ### NODE
 
@@ -14,14 +14,14 @@ Instalar versiones
 
 Ejemplo:
 
-| Instalar versión node     | Descripción                       |
-|---------------------------|-----------------------------------|
-| <pre>nvm ls</pre>         | Para ver las versiones instaladas |
-| <pre>nvm install 16</pre> | Para Angular 10                   |
-| <pre>nvm install 20</pre> | Para Angular 20                   |
-| <pre>nvm use 16</pre>     | Usar Node v 16                    |
-| <pre>nvm use 18</pre>     | Usar Node v 18 (Proyecto Sempre)  |
-| <pre>nvm use 20</pre>     | Usar Node v 20                    |
+| Descripción                       | Instalar versión node       |
+|-----------------------------------|-----------------------------|
+| Para ver las versiones instaladas | <code>nvm ls</code>         |
+| Para Angular 10                   | <code>nvm install 16</code> |
+| Para Angular 20                   | <code>nvm install 20</code> |
+| Usar Node v 16                    | <code>nvm use 16</code>     |
+| Usar Node v 18 (Proyecto Sempre)  | <code>nvm use 18</code>     |
+| Usar Node v 20                    | <code>nvm use 20</code>     |
 
 ## Angular
 
@@ -66,13 +66,13 @@ rm -rf node_modules package-lock.json && npm cache clean --force && npm install 
 
 ```
 
-| Descripción                         | Comando                                                                                                                                         |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Crear directiva en librería         | ng g d shared/directives/if-user-art/if-user-art --project=suite                                                                                |
-| Crear componente en librería        | ng g c providers/ui/provider/modals/provider-inactivate-history --project=contracts                                                             |
-| Instalar nueva versión de librerías | npm uninstall @conexia/cx-suite-drag-and-drop-files --force; npm install @conexia/cx-suite-drag-and-drop-files@0.0.21-beta01 --legacy-peer-deps |
-|                                     | npm uninstall @conexia/cx-suite-attachment-list --force; npm install @conexia/cx-suite-attachment-list@0.4.1 --legacy-peer-deps                 |
-| Jest                                | npm install --save-dev jest @angular-builders/jest @types/jest --legacy-peer-deps                                                               |
+| Descripción                         | Comando                                                                                                                                                      |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Crear directiva en librería         | <code>ng g d shared/directives/if-user-art/if-user-art --project=suite</code>                                                                                |
+| Crear componente en librería        | <code>ng g c providers/ui/provider/modals/provider-inactivate-history --project=contracts</code>                                                             |
+| Instalar nueva versión de librerías | <code>npm uninstall @conexia/cx-suite-drag-and-drop-files --force; npm install @conexia/cx-suite-drag-and-drop-files@0.0.21-beta01 --legacy-peer-deps</code> |
+|                                     | <code>npm uninstall @conexia/cx-suite-attachment-list --force; npm install @conexia/cx-suite-attachment-list@0.4.1 --legacy-peer-deps</code>                 |
+| Jest                                | <code>npm install --save-dev jest @angular-builders/jest @types/jest --legacy-peer-deps</code>                                                               |
 
 
 
