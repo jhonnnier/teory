@@ -22,6 +22,8 @@
 
 [patrones de diseño JAVA](https://conexia.udemy.com/course/patrones-de-diseno-java)
 
+[Desarrollo seguro para Devs y Hackers](https://conexia.buk.co/capacitaciones/collaborator_app_provider_lms_course_answer/lms_course/760806/index)
+
 # Sintaxis .MD
 
 [Sintaxis](./sintax-md.md)
