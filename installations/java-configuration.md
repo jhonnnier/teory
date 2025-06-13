@@ -61,8 +61,8 @@ java -version
 
 ## Otros comandos
 
-| Descripción       | Comando                                                                                                                                                                               |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Instalar librería | `mvn install:install-file -Dfile=/home/cx-domains/conexia-suite-jdk/target/suite-api-jdk-exec.jar -DgroupId=com.conexia -DartifactId=suite-api-jdk -Dversion=3.3.5.1 -Dpackaging=jar` |
-|                   |                                                                                                                                                                                       |
-|                   |                                                                                                                                                                                       |
+| Descripción       | Comando                                                                                                                                                                                        |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Instalar librería | <pre>mvn install:install-file -Dfile=/home/cx-domains/conexia-suite-jdk/target/suite-api-jdk-exec.jar -DgroupId=com.conexia -DartifactId=suite-api-jdk -Dversion=3.3.5.1 -Dpackaging=jar</pre> |
+|                   |                                                                                                                                                                                                |
+|                   |                                                                                                                                                                                                |
