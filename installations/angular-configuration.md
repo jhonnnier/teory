@@ -2,11 +2,11 @@
 
 # Angular Configuraciones
 
-| Tecnología  | Conocer versión       |
-|-------------|-----------------------|
-| Angular     | <pre>ng version</pre> |
-| Type Script | <pre>tsc -v</pre>     |
-| Node        | <pre>node -v</pre>    |
+| Tecnología  | Conocer versión |
+|-------------|-----------------|
+| Angular     | ng version      |
+| Type Script | tsc -v          |
+| Node        | node -v         |
 
 ### NODE
 
@@ -66,13 +66,13 @@ rm -rf node_modules package-lock.json && npm cache clean --force && npm install 
 
 ```
 
-| Descripción                         | Comando                                                                                                                                                    |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Crear directiva en librería         | <pre>ng g d shared/directives/if-user-art/if-user-art --project=suite</pre>                                                                                |
-| Crear componente en librería        | <pre>ng g c providers/ui/provider/modals/provider-inactivate-history --project=contracts</pre>                                                             |
-| Instalar nueva versión de librerías | <pre>npm uninstall @conexia/cx-suite-drag-and-drop-files --force; npm install @conexia/cx-suite-drag-and-drop-files@0.0.21-beta01 --legacy-peer-deps</pre> |
-|                                     | <pre>npm uninstall @conexia/cx-suite-attachment-list --force; npm install @conexia/cx-suite-attachment-list@0.4.1 --legacy-peer-deps</pre>                 |
-| Jest                                | <pre>npm install --save-dev jest @angular-builders/jest @types/jest --legacy-peer-deps</pre>                                                               |
+| Descripción                         | Comando                                                                                                                                         |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Crear directiva en librería         | ng g d shared/directives/if-user-art/if-user-art --project=suite                                                                                |
+| Crear componente en librería        | ng g c providers/ui/provider/modals/provider-inactivate-history --project=contracts                                                             |
+| Instalar nueva versión de librerías | npm uninstall @conexia/cx-suite-drag-and-drop-files --force; npm install @conexia/cx-suite-drag-and-drop-files@0.0.21-beta01 --legacy-peer-deps |
+|                                     | npm uninstall @conexia/cx-suite-attachment-list --force; npm install @conexia/cx-suite-attachment-list@0.4.1 --legacy-peer-deps                 |
+| Jest                                | npm install --save-dev jest @angular-builders/jest @types/jest --legacy-peer-deps                                                               |
 
 
 
