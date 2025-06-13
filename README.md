@@ -10,6 +10,8 @@
 
 [Java](./installations/java-configuration.md)
 
+[Angular](./installations/angular-configuration.md)
+
 # Teoría
 
 [Patrones de diseño](./teory/design-patterns.md)
