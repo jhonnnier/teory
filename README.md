@@ -24,7 +24,15 @@
 
 | Descripción    | URL                                                                                                                                                               |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conexia        | [general](./works/conexia/general.md)                                                                                                                             |
 | Capacitaciones | [Conexia Buk - Ruta aprendizaje](https://conexia.buk.co/capacitaciones/sonata/user/user_report/2002612/sonata/user/user_report_collaborator_training_course/list) |
+
+## Proyectos
+
+| Proyecto | Link                                         |
+|----------|----------------------------------------------|
+| Sempre   | [sempre](./works/conexia/projects/sempre.md) |
+|          |                                              |
 
 # Cursos
 
