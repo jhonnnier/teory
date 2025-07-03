@@ -45,7 +45,6 @@
 | Protección y seguridad de datos                                | [Protección y seguridad de datos](https://conexia.buk.co/capacitaciones/collaborator_app_provider_lms_course_answer/lms_course/17964138/detail/chapter/31581690#lmsTopicAttendee=37278247)      |
 | React                                                          | [react-the-complete-guide-incl-redux](https://conexia.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595350#overview)                                                     |
 
-                                                                                                                 |
 # Sintaxis .MD
 
 [Sintaxis](./sintax-md.md)
