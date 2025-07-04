@@ -12,6 +12,8 @@
 
 [Angular](./installations/angular-configuration.md)
 
+[Postman](./installations/postman-configuration.md)
+
 # Teoría
 
 [Patrones de diseño](./teory/design-patterns.md)
