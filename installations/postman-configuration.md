@@ -171,6 +171,14 @@ Y tus variables:
 | customerId  | 789     | Environment |
 | orderStatus | shipped | Collection  |
 
+🧪 Ejemplo en el body
+
+```json
+{
+  "customerId": "{{customerId}}"
+}
+```
+
 ------------------
 
 ## Ejemplos
@@ -253,12 +261,3 @@ function formatFecha(fechaString) {
 }
 ```
 
-### usos
-
-En body
-
-```json
-{
-  "credential_id": "{{getCredentialId}}"
-}
-```
