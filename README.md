@@ -16,6 +16,8 @@
 
 # Teoría
 
+[Git](./teory/git.md)
+
 [Patrones de diseño](./teory/design-patterns.md)
 
 [POO](./teory/POO.md)
