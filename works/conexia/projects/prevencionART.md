@@ -1,5 +1,9 @@
 [Indice](../../../README.md) / [general](../general.md)
 
+## Tomcat
+eliminar contenido de carpeta /logs
+sh bin/startup.sh
+
 ## Documentación
 
 ## Repositories - PR
