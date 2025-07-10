@@ -1,6 +1,6 @@
 [Indice](../README.md)
 
-
+Excribir código react en  [CodeSandbox](https://react.new)
 
 ## Curso react 
 [react-complete-guide-course-resources - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=D_0625)
